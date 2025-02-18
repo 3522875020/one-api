@@ -22,6 +22,7 @@ var ModelList = []string{
 	"internlm/internlm2_5-7b-chat",
 	"BAAI/bge-large-en-v1.5",
 	"BAAI/bge-large-zh-v1.5",
+	"BAAI/bge-m3",
 	"Pro/Qwen/Qwen2-7B-Instruct",
 	"Pro/Qwen/Qwen2-1.5B-Instruct",
 	"Pro/Qwen/Qwen1.5-7B-Chat",
